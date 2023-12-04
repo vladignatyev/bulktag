@@ -3,6 +3,7 @@ This script helps you prepare your photo and raster illustration artworks for up
 Script reads every image in directory provided and generate description and keywords for every picture using GPT-4 Vision. 
 
 ## Demo
+[Click to watch!](https://youtu.be/tqLcjiP0Lyc)
 [![Watch the video](https://img.youtube.com/vi/tqLcjiP0Lyc/maxresdefault.jpg)](https://youtu.be/tqLcjiP0Lyc)
 
 ## Installation
