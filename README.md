@@ -2,6 +2,9 @@
 This script helps you prepare your photo and raster illustration artworks for uploading to image stocks.
 Script reads every image in directory provided and generate description and keywords for every picture using GPT-4 Vision. 
 
+## Demo
+[![Watch the video](https://img.youtube.com/vi/tqLcjiP0Lyc/maxresdefault.jpg)](https://youtu.be/tqLcjiP0Lyc)
+
 ## Installation
 > This project uses `poetry` for dependency management. [Install Poetry](https://python-poetry.org/docs/) before proceeding to next steps.
 
