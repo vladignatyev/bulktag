@@ -3,7 +3,7 @@ from rich.console import Console
 
 import time
 
-from gendata import list_files_in_directory
+from keywords import list_files_in_directory
 
 files = list_files_in_directory('/home/vaurum/Downloads/Shutter/jpeg/')
 
