@@ -1,5 +1,6 @@
 # Bulk image tagging using OpenAI GPT-4 Vision
 This script helps you prepare your photos and raster illustration artworks for uploading to image stocks.
+
 The script reads every image in the directory provided and generates descriptions and keywords for each picture using GPT-4 Vision. 
 
 ## Demo
